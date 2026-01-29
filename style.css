@@ -1,0 +1,28 @@
+/* Style File */
+/* This is a commentary */
+
+body {
+    background-color:black;
+    color: rgb(253, 255, 255);
+}
+
+ol {
+    color: aqua;
+}
+
+h2 {
+    color: rgb(251, 251, 251);
+}
+
+p {
+    color: rgb(204, 199, 199);
+}
+
+
+header {
+    display: flex;
+    align-self: auto;
+}
+
+
+
